@@ -7,9 +7,5 @@ A PHP web app empowering college students to order food seamlessly from college 
 PHP, MySQL, JavaScript, HTML, CSS
 
 
-# Screenshot
 
-## Home
-
-![App Screenshot](https://raw.githubusercontent.com/dhananjaykuber/canteen-app-php/main/assets/1-%20Home.png)
 
